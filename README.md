@@ -1,6 +1,6 @@
 # Phil's Reading Notes
 
-- [Code 102](Code-102/README.md)
+- [Code 102](Code-102/)
 
 ## Code 201
 
